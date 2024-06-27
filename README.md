@@ -6,5 +6,6 @@
 - Smooth scrolling in each section.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
- ![FireShot Pro Webpage Capture 003 - 'Document' - file](https://github.com/ElenHub/Hotel-website/assets/143627323/b0347dfc-4e8d-49cd-8012-f1db17e982e6)
+![FireShot Pro Webpage Capture 003](https://github.com/ElenHub/Hotel-website/assets/143627323/87077063-f728-4702-b617-2a4cc8478b4f)
+
 
